@@ -18,11 +18,17 @@ pub fn int_to_roman(mut num: i32) -> String {
 }
 
 fn main() {
-    let num1 = 3749;
-    let num2 = 58;
-    let num3 = 1994;
+    // You can keep the main function empty or use it for other purposes
+}
 
-    println!("{} -> {}", num1, int_to_roman(num1)); // MMMDCCXLIX
-    println!("{} -> {}", num2, int_to_roman(num2)); // LVIII
-    println!("{} -> {}", num3, int_to_roman(num3)); // MCMXCIV
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_int_to_roman() {
+        assert_eq!(int_to_roman(3749), "MMMDCCXLIX");
+        assert_eq!(int_to_roman(58), "LVIII");
+        assert_eq!(int_to_roman(1994), "MCMXCIV");
+    }
 }
