@@ -1,0 +1,6 @@
+[package]
+name = "problem_28_Index-of-First-Occurrence-In-String"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
