@@ -1,0 +1,21 @@
+# Binaries for programs and tests
+/debug
+/target
+
+# Cargo package files
+**/*.rs.bk
+Cargo.lock
+
+# Backup files
+*.bak
+*.tmp
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Other
+.DS_Store
