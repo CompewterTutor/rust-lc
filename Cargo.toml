@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "problem_1",
+    "problem_1", "problem_12_Integer-to-Roman",
     # Add other problem directories here
 ]
+resolver = "2"
