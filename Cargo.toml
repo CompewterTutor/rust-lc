@@ -1,7 +1,8 @@
 [workspace]
 members = [
+    "problem_14_Longest-Common-Prefix",
     "problem_58_Length-of-Last-Word",
-    "problem_1", "problem_12_Integer-to-Roman", "problem_58_Length-of-Last-Word",
+    "problem_1", "problem_12_Integer-to-Roman", "problem_58_Length-of-Last-Word", "problem_14_Longest-Common-Prefix",
     # Add other problem directories here
 ]
 resolver = "2"
