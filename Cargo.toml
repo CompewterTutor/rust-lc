@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    "problem_76_Minimum-Window-Substring",
     "problem_30_Substring-with-Concatenation-of-All-Words",
     "problem_3_Longest-Substring-Without-Repeating-Characters",
     "problem_209_Minimum-Size-Subarray-Sum",
@@ -11,7 +12,7 @@ members = [
     "problem_151_Reverse-Words-in-a-String",
     "problem_14_Longest-Common-Prefix",
     "problem_58_Length-of-Last-Word",
-    "problem_1", "problem_12_Integer-to-Roman", "problem_58_Length-of-Last-Word", "problem_14_Longest-Common-Prefix", "problem_151_Reverse-Words-in-a-String", "problem_6_Zigzag-Conversion", "problem_28_Index-of-First-Occurrence-In-String", "problem_68_Text-Justification", "problem_11_Container-with-most-water", "problem_15_3-Sum", "problem_209_Minimum-Size-Subarray-Sum", "problem_3_Longest-Substring-Without-Repeating-Characters", "problem_30_Substring-with-Concatenation-of-All-Words",
+    "problem_1", "problem_12_Integer-to-Roman", "problem_58_Length-of-Last-Word", "problem_14_Longest-Common-Prefix", "problem_151_Reverse-Words-in-a-String", "problem_6_Zigzag-Conversion", "problem_28_Index-of-First-Occurrence-In-String", "problem_68_Text-Justification", "problem_11_Container-with-most-water", "problem_15_3-Sum", "problem_209_Minimum-Size-Subarray-Sum", "problem_3_Longest-Substring-Without-Repeating-Characters", "problem_30_Substring-with-Concatenation-of-All-Words", "problem_76_Minimum-Window-Substring",
     # Add other problem directories here
 ]
 resolver = "2"
