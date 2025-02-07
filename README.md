@@ -21,3 +21,11 @@
     ```sh
     cargo test -p <problem_number>_<problem_name>
     ```
+
+## TODO
+Add the solution's default function signature to the generated main.rs and pull down the question from the leetcode graphql api
+or use https://github.com/faisal-shohag/leetcode_api
+```
+LEETCODE_API_ENDPOINT=https://leetcode.com/graphql?query=query
+```
+
