@@ -11,7 +11,7 @@
     ```
 
 
-3. Implement the solution in `src/lib.rs` and write tests in `tests/lib.rs`.
+3. Implement the solution in `src/main.rs` and write tests in `src/main.rs`.
 
 4. Update the `README.md` file in the root directory to include the new problem in the Table of Contents.
 
