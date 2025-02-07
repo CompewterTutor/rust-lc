@@ -1,3 +1,6 @@
+// Check for similar problems:
+// https://leetcode.com/problems/3sum-smaller/
+// https://leetcode.com/problems/3sum-closest/
 pub fn three_sum(mut nums: Vec<i32>) -> Vec<Vec<i32>> {
     nums.sort(); // Sort the input array
     let mut result = Vec::new();
