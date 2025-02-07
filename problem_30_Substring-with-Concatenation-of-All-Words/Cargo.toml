@@ -1,0 +1,6 @@
+[package]
+name = "problem_30_Substring-with-Concatenation-of-All-Words"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
