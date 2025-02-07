@@ -1,12 +1,13 @@
 [workspace]
 members = [
+    "problem_11_Container-with-most-water",
     "problem_68_Text-Justification",
     "problem_28_Index-of-First-Occurrence-In-String",
     "problem_6_Zigzag-Conversion",
     "problem_151_Reverse-Words-in-a-String",
     "problem_14_Longest-Common-Prefix",
     "problem_58_Length-of-Last-Word",
-    "problem_1", "problem_12_Integer-to-Roman", "problem_58_Length-of-Last-Word", "problem_14_Longest-Common-Prefix", "problem_151_Reverse-Words-in-a-String", "problem_6_Zigzag-Conversion", "problem_28_Index-of-First-Occurrence-In-String", "problem_68_Text-Justification",
+    "problem_1", "problem_12_Integer-to-Roman", "problem_58_Length-of-Last-Word", "problem_14_Longest-Common-Prefix", "problem_151_Reverse-Words-in-a-String", "problem_6_Zigzag-Conversion", "problem_28_Index-of-First-Occurrence-In-String", "problem_68_Text-Justification", "problem_11_Container-with-most-water",
     # Add other problem directories here
 ]
 resolver = "2"
