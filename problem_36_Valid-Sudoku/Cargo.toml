@@ -1,0 +1,6 @@
+[package]
+name = "problem_36_Valid-Sudoku"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
