@@ -1,0 +1,6 @@
+[package]
+name = "problem_49_Group-Anagrams"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
