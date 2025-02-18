@@ -1,0 +1,6 @@
+[package]
+name = "problem_202_Happy-Number"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
