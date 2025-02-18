@@ -27,6 +27,8 @@
 
 //     0 <= nums.length <= 105
 //     -109 <= nums[i] <= 109
+
+
 use std::collections::HashSet;
 pub fn longest_consecutive(nums: Vec<i32>) -> i32 {
     let num_set: HashSet<i32> = nums.into_iter().collect();
