@@ -1,0 +1,6 @@
+[package]
+name = "problem_290_Word-Pattern"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
